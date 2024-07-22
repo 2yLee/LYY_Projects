@@ -1,1 +1,1 @@
-# MachineLearningProjects
+# Lee Youn Yeong's projects
